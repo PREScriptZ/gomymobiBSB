@@ -60,4 +60,5 @@ All updates & changelog listed [here](http://www.gomymobi.com/app/changelog.txt)
 
 ## Support us to Open Source Publicly
 **We'll never touch any fund until the goal reached. Our goal is at least _$500,000 per year_, crossed all funding platforms**
-If you like the project you can support it with a [PayPal donation](https://paypal.me/PREScriptZ) or become a backer/sponsor via [Open Collective](https://opencollective.com/gomymobi), [Patreon](patreon.com/gomymobibsb), [Ko-Fi](ko-fi.com/prescriptz), [LiberaPay](liberapay.com/PREScriptZ), [IssueHunt](issuehunt.io/r/PREScriptZ), [CauseVox](https://gomymobibsb-open-source.causevox.com/), [FundRazr](https://fundrazr.com/gomymobibsb)
+
+If you like the project you can support it with a [PayPal donation](https://paypal.me/PREScriptZ) or become a backer/sponsor via [Open Collective](https://opencollective.com/gomymobi), [Patreon](https://patreon.com/gomymobibsb), [Ko-Fi](https://ko-fi.com/prescriptz), [LiberaPay](https://liberapay.com/PREScriptZ), [IssueHunt](https://issuehunt.io/r/PREScriptZ), [CauseVox](https://gomymobibsb-open-source.causevox.com/), [FundRazr](https://fundrazr.com/gomymobibsb)
