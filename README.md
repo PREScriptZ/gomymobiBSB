@@ -6,7 +6,7 @@
 
 > ## A Nice Drag-n-Drop Website & Online Store Builder in Your Hand
 
-> ### ** Establish ➜ Do Marketing ➜ Earnings **
+> ** Establish ➜ Do Marketing ➜ Earnings **
 
 ** [gomymobiBSB: Business Website & Online Store Builder](https://www.prescriptz.com/script/gomymobi-site-builder-platform/) – Paypal, Stripe, RTL, Chat, Ad System, Multi Domains, Resell Solutions, Socials Login, reCAPTCHA & User Logs **
 
