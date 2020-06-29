@@ -10,6 +10,8 @@
 
 > **Establish ➜ Do Marketing ➜ Earnings**
 
+> **Version 2** released. Now **gomymobiBSB** supports **Element Builder** that offers the end clients the abilities to create business website from the zero with pre-defined elements. Currently this **Elementor** supports 23 sample templates + 15 element blocks + 36 HTML components & widgets for unlimited creations.
+
 **[gomymobiBSB: Business Website & Online Store Builder](https://www.prescriptz.com/script/gomymobi-site-builder-platform/) – Paypal, Stripe, RTL, Chat, Ad System, Multi Domains, Resell Solutions, Socials Login, reCAPTCHA & User Logs**
 
 <img src="https://improxy.benchmarkemail.com/http://www.gomymobi.com/app/uploads/media/public/objects/macbook.png">
