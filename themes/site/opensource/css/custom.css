@@ -1,0 +1,108 @@
+.no-display {
+	display: none;
+}
+.btn-no-uppercase {
+	text-transform: none;
+}
+.price-box {
+	border: solid 1px #d1d1d1;
+}
+.package-option {
+	/*padding: 50px 0 100px;*/
+}
+.package-option ul {
+	padding: 0;
+}
+.price-heading h3 {
+	margin-top: 0;
+}
+.price-heading i {
+	color: #d1d1d1;
+	font-size: 75px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.price-group {
+	padding: 30px 0 10px;
+}
+.price-group .dollar {
+	font-size: 20px;
+	position: relative;
+	bottom: 48px;
+}
+.price-group .price {
+	/*color: #3eb0f7;*/
+	font-size: 70px;
+	font-weight: 500;
+}
+.price-group .time {
+	font-size: 18px;
+}
+.price-feature li {
+	/*margin-left: 30px;*/
+	margin-right: 30px;
+	list-style: none;
+	border-bottom: dashed 1px #d1d1d1;
+	line-height: 40px;
+	/*color: rgba(255, 255, 255, 0.5);*/
+}
+.btn-price {
+	margin: 5px 0 15px;
+	font-size: 17px;
+	padding: 7px 35px;
+	height: 40px;
+	/*background: #3eb0f7;*/
+	transition: all 0.4s;
+	color: white;
+	border-radius: 4px;	
+}
+.btn-price:hover {
+	background: #1f96e0;
+	color: white;
+}
+#fh5co-footer {
+	font-family: "Playfair Display", Times, serif;
+}
+.fh5co-project .fh5co-imgs .smaller img {
+  max-height: 50%;
+  max-width: 70%;
+  bottom: -10em;
+  float: right;
+}
+.fund-logo {
+	height: 100px;
+	width: 100px;
+	margin: 10px auto;
+}
+#fh5co-main .col-md-9 p {
+	margin: 0px auto 10px auto;
+}
+.text-center {
+	text-align: center !important;
+}
+.lang-switcher {
+  position: fixed !important;
+  left: 15px !important;
+  background: black;
+}
+/* smart-phone ----------- */
+@media (max-width: 767px) {
+	.package-option {
+		padding: 50px 0 50px;
+	}
+	.price-box {
+		margin-bottom: 30px;
+	}
+	#client img {
+		margin: 10px 0 10px;
+	}	
+	.contact-left {
+		margin-bottom: 50px;
+	}
+	.video-header {
+		margin: 50px 0 30px;
+	}
+	#bottom-action {
+		text-align: center;
+	}
+}
